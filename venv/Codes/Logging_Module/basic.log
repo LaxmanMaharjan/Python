@@ -1,0 +1,15 @@
+DEBUG
+INFO
+WARNING
+ERROR
+CRITICAL
+DEBUG:This is Debug Message.
+INFO:This is info Messsage.
+WARNING:This is warning Message.
+ERROR:This is Error Message.
+CRITICAL:This is Critical Message.
+2020-06-25 17:12:14,404DEBUG:This is Debug Message.
+2020-06-25 17:12:14,448INFO:This is info Messsage.
+2020-06-25 17:12:14,448WARNING:This is warning Message.
+2020-06-25 17:12:14,448ERROR:This is Error Message.
+2020-06-25 17:12:14,448CRITICAL:This is Critical Message.
